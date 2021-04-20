@@ -86,7 +86,7 @@ AND MUCH MORE!!
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Java](https://www.java.com/en/download/)
 * [Netbeans](https://netbeans.apache.org)
-* [MySQL] (https://www.apachefriends.org/download.html)
+* [MySQL](https://www.apachefriends.org/download.html)
 
 
 
