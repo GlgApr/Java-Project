@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GlgApr/Java-Project">
-    <img src="Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/GlgApr/All-Delphi-Projects/core/Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">This is my Projects with Borland Delphi 7</h3>
